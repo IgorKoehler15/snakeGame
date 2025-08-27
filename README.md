@@ -56,7 +56,7 @@ Para jogar:
    ```
 2. Abra o arquivo `index.html` em qualquer navegador moderno.  
 
-Ou acesse a versão online: **[Demo no GitHub Pages](https://seu-usuario.github.io/snake-game/)**  
+Ou acesse a versão online: **[Jogo Hospedado no Vercel](https://snake-game-black-three.vercel.app/)**  
 
 ---
 
