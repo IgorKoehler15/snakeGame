@@ -64,5 +64,5 @@ Ou acesse a versão online: **[Jogo Hospedado no Vercel](https://snake-game-blac
 - [ ] Sons de efeito (comer, perder, recorde batido)  
 - [ ] Diferentes modos de jogo (clássico, infinito, com obstáculos)  
 - [ ] Skins para a cobrinha  
-- [ ] Sistema de ranking entre jogadores (multiplayer/localstorage online)  
-
+- [ ] Sistema de ranking entre jogadores (multiplayer/localstorage online)
+- [ ] Sistema disponibilizado para jogar no celular (atualmente funciona bem apenas no computador)  
