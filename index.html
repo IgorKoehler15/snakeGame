@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="snake.png">
+</head>
+
+<body>
+    <div class="game-container">
+        <h1>🐍 Snake Game</h1>
+
+        <div class="game-board" id="gameBoard"></div>
+
+        <div class="controls">
+            <button id="iniciarBtn" class="button">Start</button>
+            <button id="pausarBtn" class="button" disabled>Pause</button>
+            <button id="reiniciarBtn" class="button">Restart</button>
+        </div>
+
+        <div class="game-info">
+            <div>Pontos: <span id="score">0</span></div>
+            <div>Recorde: <span id="highScore">0</span></div>
+        </div>
+
+        <div id="gameOver" class="game-over">
+            <h2>End of game!</h2>
+            <p>Final score: <span id="finalScore">0</span></p>
+            <button onclick="reiniciarJogo()">Play again</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
